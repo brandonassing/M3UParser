@@ -4,8 +4,8 @@
 Parses a specified M3U file and writes the data to a text file and an excel file
 
 ## References:
-(https://github.com/dvndrsn/M3uParser)
-(https://github.com/python-excel/xlwt)
+https://github.com/dvndrsn/M3uParser
+https://github.com/python-excel/xlwt
 
 ## How To
 1. Install python
